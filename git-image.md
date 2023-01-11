@@ -19,7 +19,7 @@ image to that folder.  And finally commit everything to github!
 
 3. download an image you like and save it into the image dir you made
    above.
-   
+
    ```
    cd _images_
    wget https://phoenixdogtraining.com/wp-content/uploads/2017/04/wepwawet-dog-god.jpg.webp
@@ -47,7 +47,7 @@ image to that folder.  And finally commit everything to github!
 
 7. commit and push the changes.  Hint: `git commit -am ".. your
    message here.. ".
-   
+
    ```
    git commit -am "pushing image"
    git push
@@ -55,8 +55,12 @@ image to that folder.  And finally commit everything to github!
 
 8. go and check on github that the image is there.
 
+   It worked!
+
 9. as before, edit this file and write here the commands you used.
    Hint: you have to do the edits and commit again, in a similar
    fashion as above.
 
 Did the edits show up on github?
+
+The edits showed up on GitHub!
